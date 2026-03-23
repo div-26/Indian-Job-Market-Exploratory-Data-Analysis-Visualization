@@ -80,7 +80,7 @@ The objective of this section of the analysis was to explore the dataset to iden
 - Availability of key job features within Data Analyst roles in India
 
 ### Visualizations:
-![Number of Jobs](/Assets/01.png)
+![Number of Jobs](Project/Assets/01.png)
 
 ![02](/Assets/01.2.png)
 
