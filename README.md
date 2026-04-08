@@ -4,7 +4,7 @@ This project explores the data analyst job market with a focus on the Indian lan
 
 The goal of this analysis is not just to extract insights, but to visually understand patterns in salary distribution, skill demand, and job trends. Through a series of visualizations, this project highlights how different skills influence salary outcomes and how demand for data roles evolves over time.
 
-The dataset, sourced from Luke Barousse’s Python course, includes information on job titles, salaries, locations, and required skills. Using Python libraries such as Pandas, Matplotlib, and Seaborn, the analysis transforms raw job data into clear, interpretable visuals to support data-driven career insights.
+The dataset, sourced from [www.datanerd.tech](https://datanerd.tech), accessed via [HuggingFace](https://huggingface.co/datasets/lukebarousse/data_jobs)  includes information on job titles, salaries, locations, and required skills. Using Python libraries such as Pandas, Matplotlib, and Seaborn, the analysis transforms raw job data into clear, interpretable visuals to support data-driven career insights.
 
 ## Questions Answered
 Below are the questions answered in my project:
